@@ -1,0 +1,10 @@
+Line 1: def, not define
+Line 1: find_first, not find-first
+Line 3: Comment should be closed with triple quotes, not single
+Line 5: False, not FALSE
+Line 7: Missing : after L
+Line 8: Should be ==, not =
+Line 10: Indentation incorrect
+Line 14: Should be 4*x + y rather than 4x + y
+Line 16: Square brackets incorrect, should be ()
+Line 16: find_first does not match find-first
